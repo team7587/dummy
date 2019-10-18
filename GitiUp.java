@@ -14,6 +14,8 @@ public class GitiUp {
 		System.out.println("I don't know how to ride horses! D: - Jason");
         System.out.println("cube");
 		System.out.print("zeee gaga - Lionel ~ ");
+		System.out.println("Lionel sucks kappa!");	
 		esket.xd();
+
 	}
 }
