@@ -14,7 +14,7 @@ public class GitiUp {
 		System.out.println("I don't know how to ride horses! D: - Jason");
         System.out.println("cube");
 		System.out.print("zeee gaga - Lionel ~ ");
-		System.out.println("Ben was here");
+		System.out.println("Ben was here: jugemu jugemu goko no surikire kaijari suigyo no suigyo matsu unrai matsu furai matsu ku neru tokoro ni sumu tokoro ya bura koji no bura koji paipo paipo paipo no shuringan shuringan no gurindai gurindai no ponpokopi no ponpokona no choukyuume no chousuke");
 		esket.xd();
 
 	}
