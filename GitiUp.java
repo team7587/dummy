@@ -3,7 +3,7 @@ public class GitiUp {
 		int lmao;
 		for(lmao = 4; lmao > 0; lmao--)
         {
-			System.out.print("kek ");	
+			System.out.print("kek test");	
 		}
         System.out.println("");
 	}
